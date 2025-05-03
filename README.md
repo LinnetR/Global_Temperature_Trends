@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/LinnetR/Global_Temperature_Trends/Images/Global_warming_logo.jpeg">
+  <img width="460" height="300" src="https://github.com/LinnetR/Global_Temperature_Trends/blob/master/Images/Global_warming_logo.jpeg">
 </p>
 
 # Global Temperature Trends
